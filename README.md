@@ -2,7 +2,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhkP4IUrQ24xwWra1FKnTMdVfZHDdZw2TUdg&usqp=CAU">
+  <a href="https://images5.alphacoders.com/134/1346850.png">
     <img src="https://images5.alphacoders.com/134/1346850.png" width="220" height="120"/>
 
   </a>
